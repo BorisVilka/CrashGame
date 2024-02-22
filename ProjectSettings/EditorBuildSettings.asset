@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/WebView.unity
+    guid: 24989d8e87c77574b973fced9ffa60b8
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: f943a02309bc3714c8e855853926ff8c
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a0bb7d75d4bf02d418068c1b7b31126c, type: 2}
+  m_UseUCBPForAssetBundles: 0

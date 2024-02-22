@@ -1,0 +1,11 @@
+# ninja log v5
+92	695	7301800080205881	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7de3aed5e9a7ee3d
+1	1530	7301800086633406	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f6b66762e7f82331
+15	1532	7301800087704523	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	50c2d1df65c6eb28
+67	1536	7301800088711037	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	87914ab8d414c62e
+696	1571	7301800088781103	C:/Users/boris/UnityProjects/Crash game/Library/PramData/AndroidApplicationController/Cache/com.winplay.wingamejet/gradle-project/unityLibrary/build/intermediates/cxx/Debug/4g2w1g86/obj/arm64-v8a/libswappywrapper.so	eea710b5741bc367
+43	1734	7301800091154229	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e3fbe5f99e6d6e64
+30	1892	7301800092807527	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9b5821e44c3aa4ca
+61	1918	7301800093072463	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f0b0560992d5df5
+9	1919	7301800093052821	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b3cb2352d22eb4e6
+1919	2071	7301800094075360	C:/Users/boris/UnityProjects/Crash game/Library/PramData/AndroidApplicationController/Cache/com.winplay.wingamejet/gradle-project/unityLibrary/build/intermediates/cxx/Debug/4g2w1g86/obj/arm64-v8a/libgame.so	edbcf096cb597c98
